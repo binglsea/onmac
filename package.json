@@ -10,7 +10,7 @@
     "Node",
     "pnm"
   ],
-  "author": "Bing Long",
+  "author": "Bing Z. Long",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
